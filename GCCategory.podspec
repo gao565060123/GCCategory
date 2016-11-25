@@ -89,8 +89,7 @@ Pod::Spec.new do |s|
   #  For header files it will include any header in the folder.
   #  Not including the public_header_files will make all headers public.
   #
-#LPPushService/**/*.{h,m}
-  s.source_files  = "/GCCategory/**/*.{h,m}"
+  s.source_files  = "/UIWindow+Launch/**/*.{h,m}”
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = ""
