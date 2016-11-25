@@ -90,7 +90,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 #LPPushService/**/*.{h,m}
-  s.source_files  = "/GCCategory/GCCategory/**/*.{h,m}"
+  s.source_files  = "/GCCategory/**/*.{h,m}"
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = ""
